@@ -11,6 +11,10 @@
 
 ![ex_screenshot](./image/image01.png)
 
+#### 설명 영상 / Voice - WonJo Lee
+
+[![Video Label](http://img.youtube.com/vi/Y50jorQAyo8/0.jpg)](https://youtu.be/Y50jorQAyo8)
+
 ## 과제의 목적, 개발동기 및 필요성
 - 현재 초음파 기술은 의료기기 산업에 있어, 정확하고 신속한 비침습적 이미지 영상기술로 활용되고 있다.
 - 이에 파생되어 영상기술이 아닌 미세 입자 혹은 특정 타겟에 대하여 물리력을 가하는 음향 공중부양 기술이 현재 주목을 이끌고 있다. 
