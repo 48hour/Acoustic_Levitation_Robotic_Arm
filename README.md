@@ -63,7 +63,3 @@
 3. Adem Ozcelik et al (2018), "Acoustic tweezers for the life sciences", nature methods.
 4. 이준명 (2021), “협동 로봇: 중소기업 스마트 제조의 시작점”, 한국무역협회 국제무역통상연구원.
 5. UpnaLab(2022) "Acoustic Levitator", https://www.instructables.com/Acoustic-Levitator/
-
-## 수상
-
-![ex_screenshot](./image/Grand_prize.jpg)
